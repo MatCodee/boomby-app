@@ -1,0 +1,4 @@
+https://pub.dev/packages/flutter_stripe
+https://pub.dev/packages/pay
+
+https://docs.flutter.dev/reference/flutter-cli
